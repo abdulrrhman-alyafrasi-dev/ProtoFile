@@ -93,7 +93,7 @@ header.scrolled {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url("./images/abdulrrhmanweb.jpg") no-repeat;
+    background: url("abdulrrhmanweb.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
